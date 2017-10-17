@@ -200,7 +200,7 @@ class Ffmpeg < Formula
   end
 end
 
-__END__
+#__END__
 #diff --git a/common.mak b/common.mak
 #index 20b7fa3..2851b33 100644
 #--- a/common.mak
