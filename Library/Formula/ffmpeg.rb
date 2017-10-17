@@ -99,6 +99,7 @@ class Ffmpeg < Formula
       --enable-version3
       --enable-hardcoded-tables
       --enable-avresample
+      --enable-nonfree
       --cc=#{ENV.cc}
       --host-cflags=#{ENV.cflags}
       --host-ldflags=#{ENV.ldflags}
